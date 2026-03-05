@@ -161,7 +161,7 @@ Example:
 - Attrition Trend by Hire Date  
 - Experience Group vs Attrition  
 
-*(Insert dashboard screenshot here in your GitHub repository for better presentation.)*
+![image_alt](https://github.com/sarantrichy05-oss/EMPLOYEE-ATTRITION-AND-DEPARTMENT-PERFORMANCE-ANALYSIS/blob/059f5b629675ffd24417d47cfedff38ffdaa314f/DASHBOARD%20AND%20REPORT.pdf)
 
 ---
 
